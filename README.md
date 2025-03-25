@@ -21,6 +21,6 @@ Hi! I'm **Raphonzel**, aspiring to be a network engineer skilled in **Cisco Pack
 - **Packet Tracer File:** [Download Here](ospf_network.pkt)
 
 ## 📞 Contact Me
-📧 Email: yourname@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourname)  
+📧 Email: asingraph@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/raphonzel-a-520b83137/)
 
