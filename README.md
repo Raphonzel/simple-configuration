@@ -11,7 +11,7 @@ Hi! I'm **Raphonzel**, aspiring to be a network engineer skilled in **Cisco Pack
 - **Packet Tracer File:** [Download Here](basic_network.pkt)
 
 ### 2️⃣ VLAN & Inter-VLAN Routing
-- **Topology:** ![VLAN Setup](vlan_network.png)
+- **Topology:** ![VLAN Setup](InterVLAN.pkt)
 - **Description:** Configured VLANs with inter-VLAN routing on a Layer 3 switch.
 - **Packet Tracer File:** [Download Here](vlan_network.pkt)
 
